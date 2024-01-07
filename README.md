@@ -28,6 +28,10 @@ To use the calculator web page:
 - CSS
 
 
+## Live Demo
+
+Access the live demo of the calculator web page [here](https://pdineshmurugan.github.io/Calculator/calulator).
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or improvements, feel free to open an issue or create a pull request.
